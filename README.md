@@ -1,4 +1,4 @@
-# interview_prep
+# Interview Preparation 
 These are my solutions to practice questions that I am working on to prepare for interviews.  
 
 ## Exercises completed so far:  
