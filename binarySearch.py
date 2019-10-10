@@ -1,7 +1,7 @@
 # This is my implementation of the binary search algorithm
 # Reference used: https://en.wikipedia.org/wiki/Binary_search_algorithm
 
-# Input 1: array - an array where the elements haver been sorted in ascending order
+# Input 1: array - an array where the elements have been sorted in ascending order
 # Input 2: target - the number that we are searching for
 # Returns: the index of target in the array
 import math
